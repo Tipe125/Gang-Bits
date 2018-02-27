@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 sceneSetups:
 - path: Assets/Scenes/Sam.unity
   isLoaded: 1
   isActive: 1
+=======
+sceneSetups: []
+>>>>>>> 09738d96e61db00f4a5b4f91bbaa3742239e766d
